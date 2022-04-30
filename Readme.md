@@ -8,7 +8,8 @@ Please read the leaflet with the project overview on [https://hosac.github.io/pf
 
 <h2>Idea</h2>
 
-There are so many audio speakers in the market but most of them are restricted/limited in functionality or not open to modify them. In nearly all appartments and rooms are plants or artificial plants. Why not combining both? <br>
+There are so many audio speakers in the market but most of them are restricted/limited in functionality or not open to modify them. <br>
+In nearly all appartments and rooms are plants or artificial plants. Why not combining both? <br>
 The project name is a modification of the german word for "plant"
 
 <h2>Electronics</h2>
